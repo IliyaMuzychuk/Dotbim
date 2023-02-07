@@ -2335,7 +2335,7 @@
         "qw": 1.0
       },
       "guid": "ac591836-02a2-4087-84d4-a2d3cda2b9b0",
-      "type": "Studio No. 8",
+      "type": "Studio No. 9",
       "color": {
         "r": 242,
         "g": 75,
@@ -2343,8 +2343,8 @@
         "a": 255
       },
       "info": {
-        "Name": "Studio No. 8",
-        "Description": "This is a description for Studio No. 8",
+        "Name": "Studio No. 9",
+        "Description": "This is a description for Studio No. 9",
         "Rent Price": "1350",
         "Occupany Date": "02/20/2023",
         "Lease Term": "7 Months",
